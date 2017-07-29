@@ -1,3 +1,2 @@
 # RandomNumber
-random
-fdfdfg
+random output generation
